@@ -5,8 +5,13 @@ Code accompanying the paper _Variational Inference with Continuously-Indexed Nor
 ## Bibtex
 
 @inproceedings{caterini2020variational,
+
   title={Variational inference with continuously-indexed normalizing flows},
+  
   author={Caterini, Anthony and Cornish, Rob and Sejdinovic, Dino and Doucet, Arnaud},
+  
   booktitle={ICML Workshop on Invertible Neural Networks and Normalizing Flows},
+  
   year={2020}
+  
 }
