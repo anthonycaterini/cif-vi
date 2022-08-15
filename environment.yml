@@ -1,0 +1,23 @@
+name: bak-cif-vi
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - numpy
+  - pytorch
+  - torchvision
+  - ignite<=0.3.0
+  - imageio
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tensorboardx
+  - tensorboard
+  - tqdm
+  - pytest
+  - h5py
+  - seaborn=0.10.1
+  - xlrd
+  - ipdb
+  - pip
